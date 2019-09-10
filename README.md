@@ -1,0 +1,1 @@
+**This file in mandatory in all Holberton School projects**
