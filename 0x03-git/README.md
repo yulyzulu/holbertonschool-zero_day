@@ -1,1 +1,1 @@
-New directory
+This is a new content
